@@ -8,7 +8,7 @@ function createWindow () {
     icon:'./logo.png'
   })
 
-  win.loadURL('https://www.mulpj.repl.co/')
+  win.loadURL('https://www.mulpj.repl.co/home')
 }
 app.on("ready", createWindow)
 
